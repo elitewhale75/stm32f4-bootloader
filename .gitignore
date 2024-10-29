@@ -1,0 +1,7 @@
+.direnv
+.envrc
+libopencm3/
+bin/
+*.elf
+*.bin
+generated.*.ld

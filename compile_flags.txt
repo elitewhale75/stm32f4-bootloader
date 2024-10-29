@@ -1,0 +1,4 @@
+-I./my-project/libopencm3/include
+-I./my-project/app/inc/
+-I./my-project/bootloader/inc/
+-DSTM32F4
